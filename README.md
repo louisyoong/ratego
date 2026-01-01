@@ -18,7 +18,7 @@ This is a personal freelance project built for learning, experimentation, and pr
 
 🛠 Tech Stack
 
-Frontend: React / Next.js (based on your implementation)
+Frontend: React / Next.js (based on implementation)
 
 Styling: CSS / Tailwind CSS
 
@@ -55,9 +55,3 @@ For more details, see the Privacy Policy.
 Terms of Service
 
 Privacy Policy
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
